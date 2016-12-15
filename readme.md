@@ -57,7 +57,7 @@ Gametype options, etc.)
 
 ## Design Documents
 
-These are design docunents for FDK approved gametypes:
+These are design documents for FDK approved gametypes:
 
  - [Fury](design-docs/fury.hs.md)
 
